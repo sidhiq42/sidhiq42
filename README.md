@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sidhiq N</h1>
+<div align="center"><img src="https://github.com/sidhiq42/sidhiq42/blob/main/image.png"></div>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidhiq42&label=Profile%20views&color=0e75b6&style=flat" alt="sidhiq42" /> </p>
-
+<img align="right" src="https://github.com/sidhiq42/sidhiq42/blob/main/1702735776322.jpg" >
 - 🔭 I’m currently working on **Backend Developer**
 
 - 🌱 I’m currently learning **AI**
@@ -25,8 +26,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sidhiq42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidhiq42" height="30" width="40" /></a>
-<a href="https://instagram.com/sidhiq42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sidhiq42" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sidhiq _ n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidhiq _ n" height="30" width="40" /></a>
+<a href="https://instagram.com/ss_in.24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ss_in.24" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sidhiq42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sidhiq42" height="30" width="40" /></a>
 </p>
 
