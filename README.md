@@ -3,7 +3,7 @@
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidhiq42&label=Profile%20views&color=0e75b6&style=flat" alt="sidhiq42" /> </p>
-<img align="right" src="https://github.com/sidhiq42/sidhiq42/blob/main/1702735776322.jpg" >
+
 - 🔭 I’m currently working on **Backend Developer**
 
 - 🌱 I’m currently learning **AI**
